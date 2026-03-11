@@ -1,10 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ricardo Trejos</h1>
-<h3 align="center">A passionate fullstack developer from Colombia</h3>
 
-- 🌱 I’m currently working with **Elixir**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/cardotrejos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cardotrejos" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/cardotrejos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cardotrejos" height="30" width="40" /></a>
+<p align="center">
+  Fullstack developer building with <b>Elixir</b>, <b>SwiftUI</b>, and <b>TypeScript</b>
 </p>
+
+### Featured Projects
+
+- [x402](https://github.com/cardotrejos/x402) — Elixir SDK for the x402 HTTP payment protocol
+- [effect-interactive-lab](https://github.com/cardotrejos/effect-interactive-lab) — Interactive React effects
+
+### Connect
+
+[![Twitter](https://img.shields.io/badge/@cardotrejos-black?logo=twitter)](https://twitter.com/cardotrejos)
+[![LinkedIn](https://img.shields.io/badge/cardotrejos-blue?logo=linkedin)](https://linkedin.com/in/cardotrejos)
